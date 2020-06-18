@@ -1,13 +1,17 @@
 {
-  "name": "mailhog-test",
+  "name": "mailhog-docker-express-example",
   "version": "1.0.0",
-  "description": "",
+  "description": "Mailhog, Docker, and Express integration example",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": [
+    "Docker",
+    "Express",
+    "Mailhog"
+  ],
   "author": "Jfelix61",
   "license": "MIT",
   "dependencies": {
